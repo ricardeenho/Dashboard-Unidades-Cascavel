@@ -25,3 +25,4 @@ docker run -p 3000:3000 mmg-dashboard
 Abra: http://localhost:3000
 
 O container inclui todas as dependências (Next.js, Tailwind, Recharts, etc).
+Atualização de teste — 20/10/2025
